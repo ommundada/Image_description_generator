@@ -1,6 +1,3 @@
-ImageCaptionGenerator
-
-Dataset Link : https://www.kaggle.com/datasets/adityajn105/flickr8k
 
 # Image Caption Generator using CNN and LSTM
 
